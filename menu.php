@@ -24,6 +24,9 @@
             <a class="nav-link" href="#comment-faire">Comment faire ?</a>
           </li> 
           <li class="nav-item">
+            <a class="nav-link" href="#histoire">Notre histoire</a>
+          </li> 
+          <li class="nav-item">
             <a class="nav-link" href="#contact">Contact</a>
           </li> 
         </ul>
