@@ -29,10 +29,7 @@
                 </div>
                 <div class="col-md-6 banner-left">
                     <h3 class="light">Comment est néé cette plate-forme ?<br></h3>
-                    <p class="light">Cette plate-forme est née lors d'une réflexion sur comment améliorer notre transversalité.
-                    La demande initiale portait sur l’idée de décloisonner les services ainsi que de lever 
-                    les freins de contact entre les différents niveaux. 
-                    Mais comment partager ce que les salariés savent faire, au-delà du village qu’est leur service, au niveau du pays, c’est-à-dire les 1200 
+                    <p class="light">Cette plate-forme est née lors d'une réflexion sur comment partager ce que les salariés savent faire, au-delà du village qu’est leur service, au niveau du pays, c’est-à-dire les 1200 
                     personnes de l'entreprise ? Rendre visible ce qui est aujourd’hui invisible (réseau personnel)
                     <br> 
                     <a class="nav-link" href="#histoire">Aller lire la suite de notre histoire.</a></p>
@@ -55,14 +52,14 @@
                     <div class="row features-wrap">
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-comments-smiley"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-comments"></span>
                                 <h3>Pour <br> transmettre</h3>
                                 <p class="text-center">à d'autres ce que je sais faire. Le partage, c'est une richesse.</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-light-bulb"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-fullscreen"></span>
                                 <h3>Pour plus de transversalité</h3>
                                 <p class="text-center">...pour créer des passerelles entres les services et aussi entre les niveaux</p>
                             </div>
@@ -76,7 +73,7 @@
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-import"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-heart"></span>
                                 <h3>Pour<br> se sentir utile</h3>
                                 <p class="text-center">...je mets en avant mon savoir faire sans me mettre en lumière</p>
                             </div>
@@ -90,49 +87,49 @@
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-light-bulb"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-reload"></span>
                                 <h3>Offrir un circuit plus court</h3>
                                 <p class="text-center">...qui permet d'être plus performant, de façon plus simple et plus souple</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-pencil-alt"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-link"></span>
                                 <h3>Pour<br> créer du lien</h3>
                                 <p class="text-center">...et cela valorise les savoir faire de chacun</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-import"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-user"></span>
                                 <h3>Pour trouver quelqu'un</h3>
                                 <p class="text-center">... qui pourra répondre à mon besoin ou ma demande</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg"></div><span class="ti-import"></span>
+                                <div class="overlay overlay-bg"></div><span class="ti-infinite"></span>
                                 <h3>Enrichir son parcours et son réseau</h3>
                                 <p class="text-center">...je rencontre de nouvelles personnes</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg text-center"></div><span class="ti-comments-smiley"></span>
+                                <div class="overlay overlay-bg text-center"></div><span class="ti-sharethis-alt"></span>
                                 <h3>Pour partager à plusieurs</h3>
                                 <p class="text-center">...dans un lieu commun par des ateliers thématiques</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg text-center"></div><span class="ti-import"></span>
+                                <div class="overlay overlay-bg text-center"></div><span class="ti-light-bulb"></span>
                                 <h3>Pour partager mes compétences</h3>
                                 <p class="text-center">... j'ai d'autres talents que ma fiche de poste</p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="single-feature relative">
-                                <div class="overlay overlay-bg text-center"></div><span class="ti-import"></span>
+                                <div class="overlay overlay-bg text-center"></div><span class="ti-announcement"></span>
                                 <h3>Oser demander</h3>
                                 <p class="text-center">...sans être stigmatisé (les besoins et les savoir-faire sont déposés de façon anonyme) </p>
                             </div>
@@ -220,25 +217,13 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog">
-                    <div class="overlay overlay-bg"></div><img alt="" class="img-fluid" src="img/blog-post3.jpg"></div>
-                    <div class="btn-wrap text-center">
-                                                <br>
-                        <h3>En découvrant <br>vos talents</h3> 
-                        <br>
-                        <p><span class="ti-pencil-alt"></span> un outil numérique pour vous aider à la découverte de vos talents (bientôt)</p>
-                        <p><span class="ti-pencil-alt"></span> en vous inscrivant à des ateliers de découverte de vos talents en présentiel (bientôt)</p>
-                        <a class="primary-btn" href="blog.html">Utiliser l'outil</a>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-blog">
                     <div class="overlay overlay-bg"></div><img alt="" class="img-fluid" src="img/blog-post1.jpg"></div>
                     <div class="btn-wrap text-center">
                         <br>
                         <h3>En utilisant <br>la plate-forme</h3>
                         <br>
-                        <p><span class="ti-import"></span> en tant que sachant, je dépose une proposition de savoir-faire</p>
-                        <p><span class="ti-import"></span> en tant qu'apprenant, je cherche une solution à mon besoin que je dépose</p>
+                        <p><span class="ti-desktop"></span> en tant que sachant, je dépose une proposition de savoir-faire</p>
+                        <p><span class="ti-desktop"></span> en tant qu'apprenant, je cherche une solution à mon besoin que je dépose</p>
                         <a class="primary-btn" href="blog.html">J'y vais</a>
                     </div>
                 </div>
@@ -249,11 +234,23 @@
                                                 <br>
                         <h3>En particpant à <br>des ateliers de partage</h3>
                         <br>
-                        <p>Je m'inscris ou je propose un atelier pour m'initier ou j'initie à une thématique</p>
+                        <p><span class="ti-bookmark-alt"></span> Je m'inscris un atelier pour m'initier</p><br>
+                        <p><span class="ti-bookmark-alt"></span> Je propose un atelier pour initier d'autres à une thématique</p>
                         <a class="primary-btn " href="blog.html">Je m'inscris</a>
                     </div>
                 </div>
-
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog">
+                    <div class="overlay overlay-bg"></div><img alt="" class="img-fluid" src="img/blog-post3.jpg"></div>
+                    <div class="btn-wrap text-center">
+                                                <br>
+                        <h3>En découvrant <br>vos talents</h3> 
+                        <br>
+                        <p><span class="ti-pencil-alt"></span> un outil numérique pour vous aider à la découverte de vos talents (bientôt)</p>
+                        <p><span class="ti-pencil-alt"></span> en vous inscrivant à des ateliers de découverte de vos talents en présentiel (bientôt)</p>
+                        <a class="primary-btn" href="blog.html">Utiliser l'outil</a>
+                    </div>
+                </div>
             </div>
         </div>
     </section><!-- End blog section -->
