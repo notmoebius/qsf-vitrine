@@ -36,7 +36,7 @@
 		exit();
 	}
 	if($comment == ''){
-		echo json_encode(array('info' => 'error', 'msg' => "PSaisir votre message, svp."));
+		echo json_encode(array('info' => 'error', 'msg' => "Saisir votre message, svp."));
 		exit();
 	}
 

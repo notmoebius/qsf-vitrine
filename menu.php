@@ -4,7 +4,7 @@
                 <div class="row">
                     <!-- dope Menu -->
                     <nav class="dope-navbar justify-content-between" id="dopeNav">
-      <a class="nav-brand" href="index.php">Plateforme</a>
+      <a class="nav-brand" href="index.php"><img src="img/coup-de-main-coup-de-pouce.png"></a>
 
 
 

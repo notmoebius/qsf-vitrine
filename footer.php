@@ -29,7 +29,7 @@
     <!-- Start footer section -->
 <footer class="footer-section section-gap-half">
 
-<p id="copyright">Copyright &#9400; Quai des savoir-faire - CPAM Haute-Garonne - 2020. Tous droit réservés.</p>
+<p id="copyright">Copyright &#9400; Coup de main, coup de pouce - CPAM Haute-Garonne - 2020. Tous droit réservés.</p>
 
 </footer><!-- End footer section -->
 
