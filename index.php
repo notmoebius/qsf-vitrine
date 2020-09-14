@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="chrome=1" />
 
-    <title>Accueil - Coup de main, coup de pouce</title>
+    <title>Coup de main, coup de pouce</title>
     <meta content="" name="author"><!-- Meta Description -->
     <meta content="" name="description"><!-- Meta Keyword -->
     <meta content="" name="keywords"><!-- meta character set -->
@@ -20,7 +20,7 @@
                 <div class="col-md-12 banner-left">
                     <h1 class="light">Bienvenue sur<br><br>
                     <img src="img/coup-de-main-coup-de-pouce.png" width="500"></h1>
-                    <p class="light">Cette plate-forme est née lors d'une réflexion sur comment partager ce que les salariés savent faire, au-delà du village qu’est leur service, au niveau du pays, c’est-à-dire les 1200 personnes de l'entreprise ? Rendre visible ce qui est aujourd’hui invisible (réseau personnel).</p><a class="video-btn primary-btn" href="">J'ai un besoin <span class="ti-arrow-right"></span></a>&nbsp;&nbsp;&nbsp;<a class="video-btn primary-btn primary-btn-2" href="">Je propose</a>&nbsp;&nbsp;&nbsp;<a href="#histoire" class="video-btn primary-btn" href="">Lire notre histoire <span class="ti-book"></span></a>  
+                    <p class="light">Cette plate-forme est née lors d'une réflexion sur comment partager ce que les salariés savent faire, au-delà du village qu’est leur service, au niveau du pays, c’est-à-dire les 1200 personnes de l'entreprise ? Rendre visible ce qui est aujourd’hui invisible (réseau personnel).</p><a class="video-btn primary-btn" href="https://qualif-qsf.cpam31.fr/qsf2/Besoin.php">J'ai un besoin <span class="ti-arrow-right"></span></a>&nbsp;&nbsp;&nbsp;<a class="video-btn primary-btn primary-btn-2" href="https://qualif-qsf.cpam31.fr/qsf2/Talent.php">Je propose</a>&nbsp;&nbsp;&nbsp;<a href="#histoire" class="video-btn primary-btn">Lire notre histoire <span class="ti-book"></span></a>  
                 </div>
 
                 <a class="container-arrow" href="#notre-demarche"><span><i aria-hidden="true" class="fa fa-angle-down"></i></span></a>
@@ -223,7 +223,7 @@
                         <h3>En utilisant<br>
                         la plate-forme</h3><br>
                         <p><span class="ti-desktop"></span> en tant que sachant, je dépose une proposition de savoir-faire</p>
-                        <p><span class="ti-desktop"></span> en tant qu'apprenant, je cherche une solution à mon besoin que je dépose</p><a class="primary-btn" href="blog.html">J'y vais</a>
+                        <p><span class="ti-desktop"></span> en tant qu'apprenant, je cherche une solution à mon besoin que je dépose</p><a class="primary-btn" href="https://qualif-qsf.cpam31.fr" target="_blank">J'y vais</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -234,7 +234,7 @@
                         <h3>En particpant à<br>
                         des ateliers de partage</h3><br>
                         <p><span class="ti-bookmark-alt"></span> Je m'inscris un atelier pour m'initier</p><br>
-                        <p><span class="ti-bookmark-alt"></span> Je propose un atelier pour initier d'autres à une thématique</p><a class="primary-btn" href="blog.html">Je m'inscris</a>
+                        <p><span class="ti-bookmark-alt"></span> Je propose un atelier pour initier d'autres à une thématique</p><a class="primary-btn" href="https://qualif-qsf.cpam31.fr/qsf2/Atelier.php" target="_blank">Je m'inscris</a>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -245,7 +245,7 @@
                         <h3>En découvrant<br>
                         vos talents</h3><br>
                         <p><span class="ti-pencil-alt"></span> un outil numérique pour vous aider à la découverte de vos talents (bientôt)</p>
-                        <p><span class="ti-pencil-alt"></span> en vous inscrivant à des ateliers de découverte de vos talents en présentiel (bientôt)</p><a class="primary-btn" href="blog.html">Utiliser l'outil</a>
+                        <p><span class="ti-pencil-alt"></span> en vous inscrivant à des ateliers de découverte de vos talents en présentiel (bientôt)</p><a class="primary-btn" href="https://app.eva.beta.gouv.fr" target="_blank">Utiliser l'outil</a>
                     </div>
                 </div>
             </div>
@@ -316,21 +316,14 @@
         <div class="container blog-wrap section-gap-full">
             <div class="section-title">
                 <h1 class="text-center">Notre histoire</h1>
-
-
-
-<div class="container">
-
-  <div class="row">
-
-    <div class="col-sm text-middle">
-       <p class="text-center ">Une plateforme numérique de mise en relation s’est imposée pour proposer des talents (savoir-faire, compétences, aptitudes,...) professionnels ou personnels. L'idée de proposer un besoin est née car, pour des questions culturelles, certains salariés ne seraient pas à l’aise pour afficher leurs “talents</p> 
-    </div>
-
-    <div class="col-sm text-center text-middle">
-     <img alt="" src="https://dopetheme.com/html/dope%20-%20landing/dope/img/video.png" height="350">
-    </div>
-
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm text-middle">
+                        <p class="text-center ">Une plateforme numérique de mise en relation s’est imposée pour proposer des talents (savoir-faire, compétences, aptitudes,...) professionnels ou personnels. L'idée de proposer un besoin est née car, pour des questions culturelles, certains salariés ne seraient pas à l’aise pour afficher leurs “talents</p> 
+                    </div>
+                <div class="col-sm text-center text-middle">
+                <img alt="" src="https://dopetheme.com/html/dope%20-%20landing/dope/img/video.png" height="350">
+                </div>
   </div>
 
 

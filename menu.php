@@ -29,20 +29,11 @@
           <li class="nav-item">
             <a class="nav-link" href="#contact">Contact</a>
           </li> 
-        </ul>
-          
-
-
-        <ul id="nav">
           <li class="nav-item dropleft">   
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Inscription</a>
+            <a class="nav-link dropdown-toggle" href="https://qualif-qsf.cpam31.fr/qsf2/Inscription.php">Inscription</a>
           </li>
         </ul>
-
-
-
-
-</div>
+        </div>
       </div>
 
 
